@@ -1,0 +1,13 @@
+I"3<h1 id="running-linux-from-ram">Running Linux from RAM</h1>
+
+<h2 id="use-cases">Use Cases</h2>
+
+<h2 id="the-ubuntu-script">The Ubuntu Script</h2>
+
+<h2 id="working-with-debian">Working with Debian</h2>
+
+<h2 id="what-else-is-possible">What Else is Possible?</h2>
+
+<p>After getting pretty good with all this, I wonder what other options there are. Raspberry Pi SBCs now come with significant amounts of RAM and the Raspbian operating system is based on Debian. As a matter of fact, there are even Ubuntu and Debian distributions available for the Raspberry Pi.</p>
+
+:ET

@@ -1,0 +1,18 @@
+I"Y<h1 id="the-advanced-packaging-tool">The Advanced Packaging Tool</h1>
+
+<p>The Advanded Packaging Tool is the most recent and commonly used tool for managing software packages in Debian based GNU/Linux distributions.</p>
+
+<p>The Debian project created and uses a software packaging format, contained in <code class="language-plaintext highlighter-rouge">*.deb</code> files, and package management tool for creating, installing, and otherwise manipulating software that is packaged in that format, the <code class="language-plaintext highlighter-rouge">dpkg</code> program. The <code class="language-plaintext highlighter-rouge">dpkg</code> program includes other tools such as <code class="language-plaintext highlighter-rouge">dpkg-deb</code>, <code class="language-plaintext highlighter-rouge">dpkg-query</code>, and <code class="language-plaintext highlighter-rouge">dpkg-split</code> that can be used to perform low leval tasks for management of software in a Debian based GNU/Linux distribution as well as development tools such as <code class="language-plaintext highlighter-rouge">dpkg-source</code>, <code class="language-plaintext highlighter-rouge">dpkg-buildpackage</code>, and others that can be used to build, package, and distribute software for those distributions.</p>
+
+<p>The <code class="language-plaintext highlighter-rouge">dpkg</code> tools function at a low level and are often too complex for most common purposes. In order to simplify common package management tasks, the <code class="language-plaintext highlighter-rouge">dselect</code> was created.</p>
+
+<p>APT is a software tool used to manage software in many GNU/Linux distributions. It was created by the Debian project,</p>
+
+<h1 id="apt-repositories">APT Repositories</h1>
+
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="code"><pre><span class="nv">$ </span><span class="nb">sudo </span>apt update
+<span class="nv">$ </span><span class="nb">sudo </span>apt upgrade
+</pre></td></tr></tbody></table></code></pre></figure>
+:ET
